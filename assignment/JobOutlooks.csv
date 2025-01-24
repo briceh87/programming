@@ -1,0 +1,10 @@
+job,pay,edu,exp,train,n_employed,outlook,change_employment,top_places,physical_work_environment,social_work_environment,personal-ranking
+data scientist,108020,BS,None,None,202900,36,73100,DC,"office, remote, outside",team or solo,2
+physicians,239200,MD,None,Internship/residency,834500,4,34500,Pennsylvania,"clinical, nonclinical",team or solo,3
+dentist,170910,MD,None,Internship/residency,160600,5,7300,Hawaii,"clinical, nonclinical",team or solo,4
+"securities, commodities, and financial services sales agents",76900,BS,None,Moderate-term on-the-job training,513800,7,34100,New York,"office, remote, outside",team or solo,1
+management analyst,99410,BS,Less than 5 years,None,1018300,11,107900,DC,"office, remote, outside",team or solo,6
+firefighter,57120,Postsecondary nondegree award,None,Long-term on-the-job training,326800,4,13700,New Hampshire,outside,team,8
+registered nurse,86070,BS,None,None,3300100,6,197200,South Dakota,"clinical, nonclinical",team or solo,5
+producers and directors,82510,BS,Less than 5 years,None,167900,8,13500,DC,"office, stage",team or solo,9
+police and detectives,74910,BS,None,Moderate-term on-the-job training,796800,4,28700,New Mexico,"office, outside",team or solo,7
